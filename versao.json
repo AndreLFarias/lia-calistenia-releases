@@ -1,6 +1,6 @@
 {
-    "versionCode":  6,
-    "versionName":  "0.6.0",
-    "notes":  "Aba Progresso: meta da semana editavel, calendario do mes com a sigla do treino em cada dia, sequencia de semanas cumpridas e o volume da semana por musculo. As Escadas passaram para dentro dela — \u0027onde eu estou\u0027 e pergunta de progresso.",
-    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.6.0/liacalistenia-0.6.0.apk"
+    "versionCode":  7,
+    "versionName":  "0.7.0",
+    "notes":  "Desafios e Ajustes. Quatro desafios de 28 a 30 dias, com agenda por semana e dia de descanso marcado — o exercicio de cada dia continua saindo do seu degrau. Dia perdido nao empurra os outros para a frente, e agora o calendario do mes mostra em vermelho os dias que o desafio marcou e passaram em branco. Aba Ajustes nova: halteres de casa, meta da semana, procurar atualizacao e, principalmente, BACKUP — exportar o historico e restaurar em outro aparelho.",
+    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.7.0/liacalistenia-0.7.0.apk"
 }
