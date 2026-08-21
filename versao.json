@@ -1,6 +1,6 @@
 {
-    "versionCode":  1,
-    "versionName":  "0.1.0",
-    "notes":  "Primeira versao: as sete escadas de progressao, do iniciante ao avancado, sem equipamento e com halteres de 1 a 5 kg.",
-    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.1.0/liacalistenia-0.1.0.apk"
+    "versionCode":  2,
+    "versionName":  "0.2.0",
+    "notes":  "O app passa a procurar atualizacao sozinho ao abrir, e tem botao para procurar na hora.",
+    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.2.0/liacalistenia-0.2.0.apk"
 }
