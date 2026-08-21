@@ -1,6 +1,6 @@
 {
-    "versionCode":  3,
-    "versionName":  "0.3.0",
-    "notes":  "Cada exercicio mostra agora os musculos que trabalha, separando primario de secundario. Por baixo, os acessorios (rosca, triceps frances, elevacao lateral, panturrilha, encolhimento e superman) passaram a existir de verdade, cada um com o proprio halter.",
-    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.3.0/liacalistenia-0.3.0.apk"
+    "versionCode":  4,
+    "versionName":  "0.4.0",
+    "notes":  "Nova aba Treinos: oito focos por parte do corpo — corpo inteiro, peito, costas, bracos, ombros, abdomen, pernas e gluteos. O treino nao e uma lista fixa: cada foco monta na hora, usando o exercicio do degrau em que voce esta. Nivel muda so quantas series, nunca a dificuldade.",
+    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.4.0/liacalistenia-0.4.0.apk"
 }
