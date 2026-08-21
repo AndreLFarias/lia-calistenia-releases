@@ -1,6 +1,6 @@
 {
-    "versionCode":  4,
-    "versionName":  "0.4.0",
-    "notes":  "Nova aba Treinos: oito focos por parte do corpo — corpo inteiro, peito, costas, bracos, ombros, abdomen, pernas e gluteos. O treino nao e uma lista fixa: cada foco monta na hora, usando o exercicio do degrau em que voce esta. Nivel muda so quantas series, nunca a dificuldade.",
-    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.4.0/liacalistenia-0.4.0.apk"
+    "versionCode":  5,
+    "versionName":  "0.5.0",
+    "notes":  "Tela propria de cada exercicio: toque no nome e veja os musculos com primario e secundario separados, a execucao em duas linhas, onde ele fica na escada e as ultimas sessoes. A aba Escadas ficou navegavel — da para abrir a escada inteira e ver o que vem pela frente.",
+    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.5.0/liacalistenia-0.5.0.apk"
 }
