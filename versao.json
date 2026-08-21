@@ -1,6 +1,6 @@
 {
-    "versionCode":  5,
-    "versionName":  "0.5.0",
-    "notes":  "Tela propria de cada exercicio: toque no nome e veja os musculos com primario e secundario separados, a execucao em duas linhas, onde ele fica na escada e as ultimas sessoes. A aba Escadas ficou navegavel — da para abrir a escada inteira e ver o que vem pela frente.",
-    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.5.0/liacalistenia-0.5.0.apk"
+    "versionCode":  6,
+    "versionName":  "0.6.0",
+    "notes":  "Aba Progresso: meta da semana editavel, calendario do mes com a sigla do treino em cada dia, sequencia de semanas cumpridas e o volume da semana por musculo. As Escadas passaram para dentro dela — \u0027onde eu estou\u0027 e pergunta de progresso.",
+    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.6.0/liacalistenia-0.6.0.apk"
 }
