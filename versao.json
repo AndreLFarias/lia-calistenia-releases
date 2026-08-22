@@ -1,6 +1,6 @@
 {
-    "versionCode":  11,
-    "versionName":  "0.11.0",
-    "notes":  "Os exercicios ganharam figura. Todos os 57, mais os cinco aquecimentos, agora mostram um boneco que se move entre o comeco e o fim do movimento — no treino guiado, na tela do exercicio e no aquecimento. Onde ajuda, a parede, a barra e o chao aparecem junto, para dar para ver de onde a figura esta pendurada ou apoiada.",
-    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.11.0/liacalistenia-0.11.0.apk"
+    "versionCode":  12,
+    "versionName":  "0.12.0",
+    "notes":  "Catalogo maior: de 57 para 91 exercicios e de 7 para 12 escadas. Cinco escadas novas — Mergulho, Flexao de tronco, Elevacao de pernas, Abducao de quadril e Panturrilha, que antes era um exercicio so. Seis acessorios novos. Quatro musculos novos: flexor de quadril, gluteo medio, soleo e adutores; panturrilha virou Gastrocnemio, porque sao dois musculos e o soleo so trabalha com o joelho dobrado. Os focos de braco, abdomen, pernas e gluteos ficaram bem mais completos. Os exercicios novos ainda nao tem figura.",
+    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.12.0/liacalistenia-0.12.0.apk"
 }
