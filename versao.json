@@ -1,6 +1,6 @@
 {
-    "versionCode":  12,
-    "versionName":  "0.12.0",
-    "notes":  "Catalogo maior: de 57 para 91 exercicios e de 7 para 12 escadas. Cinco escadas novas — Mergulho, Flexao de tronco, Elevacao de pernas, Abducao de quadril e Panturrilha, que antes era um exercicio so. Seis acessorios novos. Quatro musculos novos: flexor de quadril, gluteo medio, soleo e adutores; panturrilha virou Gastrocnemio, porque sao dois musculos e o soleo so trabalha com o joelho dobrado. Os focos de braco, abdomen, pernas e gluteos ficaram bem mais completos. Os exercicios novos ainda nao tem figura.",
-    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.12.0/liacalistenia-0.12.0.apk"
+    "versionCode":  13,
+    "versionName":  "0.13.0",
+    "notes":  "Treinos de oito exercicios. Todo foco no avancado agora monta 8 ou 9. As series por exercicio baixaram junto — quem cresce com o nivel e o numero de exercicios, nao a serie no mesmo exercicio: oito exercicios com quatro series cada dariam mais de trinta series na sessao, e isso atrapalha o treino seguinte. Duas escadas novas (Extensao de lombar e Rotacao de tronco) e sete acessorios. De 91 para 106 exercicios.",
+    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.13.0/liacalistenia-0.13.0.apk"
 }
