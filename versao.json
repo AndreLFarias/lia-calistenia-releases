@@ -1,6 +1,6 @@
 {
-    "versionCode":  9,
-    "versionName":  "0.9.0",
-    "notes":  "O app finalmente tem icone: a escada, com o proximo degrau em dourado. Treinos virou a tela inicial, e a aba Hoje virou Calendario — mostra so o mes, a meta e a sequencia. E todo exercicio que precisa de apoio agora diz qual: o braco do sofa, uma parede lisa, mesa firme que nao deslize.",
-    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.9.0/liacalistenia-0.9.0.apk"
+    "versionCode":  10,
+    "versionName":  "0.10.0",
+    "notes":  "Treino guiado. O app conduz: o tempo corre desde o Comecar, cada exercicio aparece na sua vez, o descanso e contado sozinho e a proxima serie entra sem voce pedir. Acabou o botao Serie abrindo formulario — as repeticoes ja vem no alvo e o RIR e um toque. Prancha e outras isometrias contam sozinhas. E da para arrastar os exercicios e mudar a ordem do treino, que fica guardada.",
+    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.10.0/liacalistenia-0.10.0.apk"
 }
