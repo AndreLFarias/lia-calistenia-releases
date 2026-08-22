@@ -1,6 +1,6 @@
 {
-    "versionCode":  10,
-    "versionName":  "0.10.0",
-    "notes":  "Treino guiado. O app conduz: o tempo corre desde o Comecar, cada exercicio aparece na sua vez, o descanso e contado sozinho e a proxima serie entra sem voce pedir. Acabou o botao Serie abrindo formulario — as repeticoes ja vem no alvo e o RIR e um toque. Prancha e outras isometrias contam sozinhas. E da para arrastar os exercicios e mudar a ordem do treino, que fica guardada.",
-    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.10.0/liacalistenia-0.10.0.apk"
+    "versionCode":  11,
+    "versionName":  "0.11.0",
+    "notes":  "Os exercicios ganharam figura. Todos os 57, mais os cinco aquecimentos, agora mostram um boneco que se move entre o comeco e o fim do movimento — no treino guiado, na tela do exercicio e no aquecimento. Onde ajuda, a parede, a barra e o chao aparecem junto, para dar para ver de onde a figura esta pendurada ou apoiada.",
+    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.11.0/liacalistenia-0.11.0.apk"
 }
