@@ -1,6 +1,6 @@
 {
-    "versionCode":  13,
-    "versionName":  "0.13.0",
-    "notes":  "Treinos de oito exercicios. Todo foco no avancado agora monta 8 ou 9. As series por exercicio baixaram junto — quem cresce com o nivel e o numero de exercicios, nao a serie no mesmo exercicio: oito exercicios com quatro series cada dariam mais de trinta series na sessao, e isso atrapalha o treino seguinte. Duas escadas novas (Extensao de lombar e Rotacao de tronco) e sete acessorios. De 91 para 106 exercicios.",
-    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.13.0/liacalistenia-0.13.0.apk"
+    "versionCode":  15,
+    "versionName":  "0.15.0",
+    "notes":  "Gerador de treino por tempo (10/20/30 min) com objetivo Foco muscular ou Emagrecimento (circuito de corpo inteiro), peso corporal com meta e historico, aquecimento variado, e os 49 exercicios que faltavam ganharam figura - catalogo completo, sem icone generico.",
+    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.15.0/liacalistenia-0.15.0.apk"
 }
