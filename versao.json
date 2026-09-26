@@ -1,6 +1,6 @@
 {
-    "versionCode":  15,
-    "versionName":  "0.15.0",
-    "notes":  "Gerador de treino por tempo (10/20/30 min) com objetivo Foco muscular ou Emagrecimento (circuito de corpo inteiro), peso corporal com meta e historico, aquecimento variado, e os 49 exercicios que faltavam ganharam figura - catalogo completo, sem icone generico.",
-    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.15.0/liacalistenia-0.15.0.apk"
+    "versionCode":  16,
+    "versionName":  "0.16.0",
+    "notes":  "Previa 3D em Ajustes: compare a figura de vetor com o render 3D novo, exercicio por exercicio (teste, nao substitui a figura ainda).",
+    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.16.0/liacalistenia-0.16.0.apk"
 }
