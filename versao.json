@@ -1,6 +1,6 @@
 {
-    "versionCode":  16,
-    "versionName":  "0.16.0",
-    "notes":  "Previa 3D em Ajustes: compare a figura de vetor com o render 3D novo, exercicio por exercicio (teste, nao substitui a figura ainda).",
-    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.16.0/liacalistenia-0.16.0.apk"
+    "versionCode":  17,
+    "versionName":  "0.17.0",
+    "notes":  "Previa 3D: corrige poses invertidas (HSPU, pike com pe elevado) que afundavam por baixo do chao, conserta a posicao da parede, e anima alternando entre o comeco e o fim do movimento.",
+    "apk":  "https://github.com/AndreLFarias/lia-calistenia-releases/releases/download/v0.17.0/liacalistenia-0.17.0.apk"
 }
